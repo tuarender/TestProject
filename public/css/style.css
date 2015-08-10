@@ -34,35 +34,43 @@ ul#horizontal-list {
 	float:left;
 	max-width: 100%;
 	list-style: none;
-	background-color: #FFFF00;
+	text-align:center;
+	/*background-color: #FFFF00;*/
 	padding: 0;
     list-style-type: none;
-    margin: 0px 0px;
+    margin: 0 auto;
 }
 ul#horizontal-list li {
 	display: inline;
 }
-div.catalouge{
+div.catalogue{
 	display: block;
-	margin: 0px;
+	margin: 10px 0px;
 	padding:0px;
-	background-color: #00FF00;
+	/*background-color: #00FF00;*/
+	text-align: center;
 }
 div.brand{
-	display:inline;
-	background-color: #FFFFFF;
+	margin: 10px 0px;
 	height: inherit;
+	text-align: center;
+}
+.head1{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	color: #F2F100;
 }
 @media screen and (min-width: 768px) {
-	div.catalouge{
+	div.catalogue{
 		float:left;
-		margin: 0px;
-		padding:0px;
-		background-color: #00FF00;
 		width: 30%;
 		height: 100%;
 	}
 	ul#horizontal-list {
 		max-width: 70%;
+	}
+	div.brand{
+		text-align: left;
 	}
 }

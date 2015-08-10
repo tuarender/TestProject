@@ -69,89 +69,17 @@
       </div>
 
       <div class="detail">
-        <div class="catalouge">
-          Something
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
+        <div class="catalogue head1">
+          Lastest Catalogue
         </div>
-        <div class="brand">
+        <div class="brand head1">
+          KH Product
           <ul id="horizontal-list">
             <li><a href="#"><img src="images/brand/brand1.gif" /></a></li>
             <li><a href="#"><img src="images/brand/brand2.gif" /></a></li>
             <li><a href="#"><img src="images/brand/brand3.gif" /></a></li>
             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
-             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
@@ -243,82 +171,6 @@
 
       <br>
 
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-
-      <br>
-      
       <br>
 
       <br>
