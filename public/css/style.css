@@ -3,6 +3,17 @@ img.error {
   max-width: 100%; /* Add !important if needed. */
   height: auto;    /* Add !important if needed. */
 }
+img.main {
+  display: inline-block;
+  width: inherit;  /* This makes the next two lines work in IE8. */
+  max-width: 100%; /* Add !important if needed. */
+  height: auto;    /* Add !important if needed. */
+}
+img.logo {
+  display: inline-block;
+  width: inherit;  /* This makes the next two lines work in IE8. */
+  max-height: 50px; /* Add !important if needed. */
+}
 div.error{
 	margin: auto;
 	text-align: center;
@@ -11,4 +22,45 @@ div.error{
 .starter-template {
   padding: 40px 15px;
   text-align: center;
+}
+div.detail{
+	float: left;
+	background-color: #7F7F7F;
+	width: 100%;
+	min-height: 180px;
+}
+
+ul#horizontal-list {
+	display: inline-block;
+	max-width: 70%;
+	list-style: none;
+	background-color: #FFFF00;
+	padding: 0;
+    list-style-type: none;
+    margin: 0px 0px;
+}
+ul#horizontal-list li {
+	display: inline;
+}
+div.catalouge{
+	display: block;
+	width: 100%;
+	margin: 0px;
+	padding:0px;
+	background-color: #00FF00;
+}
+@media screen and (min-width: 768px) {
+	div.catalouge{
+		float:left;
+		margin: 0px;
+		padding:0px;
+		background-color: #00FF00;
+		width: 30%;
+		height: 100%;
+	}
+}
+div.brand{
+	display:inline;
+	background-color: #FFFFFF;
+	height: inherit;
 }

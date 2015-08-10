@@ -8,7 +8,7 @@
     <title>Khbicycle</title>
 
     <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -29,7 +29,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Project name</a>
+          <a class="navbar-brand" href="#"><img class="logo" src="images/khcycle_logo.png"/></a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
@@ -43,7 +43,7 @@
       </div>
     </nav>
 
-    <div class="container" style="padding:50px 0px">
+    <div class="container2" style="padding:50px 0px">
 
       <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <!-- Indicators -->
@@ -51,22 +51,114 @@
           <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
           <li data-target="#myCarousel" data-slide-to="1"></li>
           <li data-target="#myCarousel" data-slide-to="2"></li>
-          <li data-target="#myCarousel" data-slide-to="3"></li>
         </ol>
 
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
           <div class="item active">
-            <img src="images/carousel/slide1.jpg" alt="Chania" width="1024">
+            <img src="images/carousel/slide1.jpg">
           </div>
           <div class="item">
-            <img src="images/carousel/slide2.jpg" alt="Chania" width="1024">
+            <img src="images/carousel/slide2.jpg">
           </div>
           <div class="item">
-            <img src="images/carousel/slide3.jpg" alt="Flower" width="1024">
+            <img src="images/carousel/slide3.jpg">
           </div>
         </div>
 
+      </div>
+
+      <div class="detail">
+        <div class="catalouge">
+          Something
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+        </div>
+        <div class="brand">
+          <ul id="horizontal-list">
+            <li><a href="#"><img src="images/brand/brand1.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand2.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand3.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+             <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+            <li><a href="#"><img src="images/brand/brand4.gif" /></a></li>
+          </ul>
+        </div>
       </div>
 
     </div>
@@ -83,6 +175,150 @@
 
       <br>
 
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+
+      <br>
+      
       <br>
 
       <br>

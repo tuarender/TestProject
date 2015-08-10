@@ -8,13 +8,13 @@
     </head>
 <body>
 	<div>
-		<img src="images/khcycle_logo.png"/>
+		<img class="error" src="images/khcycle_logo.png"/>
 		<div>
 			<h2>
 				It look like something lost...
 			</h2>
 		</div>
-		<img src="images/lostWheel.jpg"/>
+		<img class="error" src="images/lostWheel.jpg"/>
 	</div>
 </body>
 </html>
