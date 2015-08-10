@@ -8,7 +8,7 @@ use App\Http\Requests;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\View;
 
-class MainController extends BaseController
+class MainController extends Controller
 {
 
     public function main()
