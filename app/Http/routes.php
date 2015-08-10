@@ -12,16 +12,16 @@
 */
 
 
-Route::get('/', 'BaseController@main');
+Route::get('/', 'MainController@main');
 
-Route::get('/product', 'BaseController@product');
+Route::get('/product', 'MainController@product');
 
-Route::get('/catalogue', 'BaseController@catalogue');
+Route::get('/catalogue', 'MainController@catalogue');
 
-Route::get('/news', 'BaseController@news');
+Route::get('/news', 'MainController@news');
 
-Route::get('/contact', 'BaseController@contact');
+Route::get('/contact', 'MainController@contact');
 
-Route::get('/member', 'BaseController@member');
+Route::get('/member', 'MainController@member');
 
-Route::get('/product', 'BaseController@product');
+Route::get('/product', 'MainController@product');

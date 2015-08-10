@@ -10,29 +10,11 @@ use Illuminate\Support\Facades\View;
 
 class BaseController extends Controller
 {
-    //
-    public function main()
-    {
-        return View('layouts.main');
-    }
+	protected $layout = 'layouts.default';
 
-    public function product()
-    {
-        return "Hello product";
-    }
-
-    public function news()
-    {
-        return "Hello news";
-    }
-
-    public function contact()
-    {
-        return "Hello contact";
-    }
-
-    public function member()
-    {
-        return "Hello member";
-    }
+	protected function setupLayout(){
+		if(!is_null($this->layout)){
+			return View($this->layout);
+		}
+	}
 }
